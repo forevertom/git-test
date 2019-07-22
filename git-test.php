@@ -11,4 +11,6 @@ function test()
     $string      = 'first commit';
     $stringtwo   = 'second commit';
     $stringThree = 'three commit';
+    $stringfour  = 'four commit';
+    $stringfive  = 'five commit';
 }
