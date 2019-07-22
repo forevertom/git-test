@@ -6,6 +6,9 @@
  *Created on 2019/7/22 15:33
  */
 
-function test(){
-    
+function test()
+{
+    $string    = 'first commit';
+    $stringtwo = 'second commit';
+    $stringtwo = 'first-second commit';
 }
