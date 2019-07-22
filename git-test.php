@@ -9,4 +9,5 @@
 function test()
 {
     $string    = 'first commit';
+    $stringtwo = 'second commit';
 }
