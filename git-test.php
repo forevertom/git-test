@@ -13,4 +13,5 @@ function test()
     $stringThree = 'three commit';
     $stringfour  = 'four commit';
     $stringfive  = 'five commit';
+    $stringSix   = 'six revert commit';
 }
