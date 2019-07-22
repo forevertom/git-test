@@ -15,4 +15,5 @@ function test()
     $stringfive  = 'five commit';
     $stringSix   = 'six revert commit';
     $stringSeven = 'seven revert commit';
+    $stringEigth = 'eigth revert commit';
 }
