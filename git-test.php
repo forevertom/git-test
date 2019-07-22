@@ -8,5 +8,7 @@
 
 function test()
 {
-    $string    = 'first commit';
+    $string      = 'first commit';
+    $stringtwo   = 'second commit';
+    $stringThree = 'three commit';
 }
